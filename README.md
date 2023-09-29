@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Happy Bites**
 
-- 👨‍💻 All of my projects are available at [www.paolovillagomez.com](www.paolovillagomez.com)
+- 👨‍💻 All of my projects are available at [https://paolovillagomez.com/](https://paolovillagomez.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
